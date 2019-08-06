@@ -5,4 +5,8 @@ if (age >25){
 }
 else if (age === 25){
     console.log('You are exactly 25 years old!')
+}
+
+else if (age <= 25){
+    console.log('You are younger than 25 years old!')
 };
